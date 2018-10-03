@@ -1,0 +1,34 @@
+
+body{
+  border: 20px solid #bdc3c7;
+  padding: 20px;
+  max-width: 700px;
+w width:80%;
+/*max를 사용해서 줄어들때 최대한 700을 유지하도록해야함  */
+  margin: 20px auto;
+  /* 이렇게하면 위에는 지정하고 아래는 자동으로 됨*/
+  font-family: Open Sans;
+}
+
+.quote {
+  border-left: 5px solid #bdc3c7;
+  padding-left: 5px;
+}
+
+.date{
+color: #3498db;
+text-transform: uppercase;
+letter-spacing: 0.2rem;
+}
+h2{
+  font-size: 2.0rem;
+  color: #2c3e50;
+}
+/* rem?-아마 글자간 간격을조정할수 있는거
+ em은 부모태그의 몇배 */
+
+hr{
+  border: 0;
+   border-bottom: 1px dashed #ccc;
+   background: #999;
+}

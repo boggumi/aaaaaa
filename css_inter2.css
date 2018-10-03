@@ -1,0 +1,15 @@
+p{
+
+/* content- width and height */
+width: 20%;
+/* border */
+border: 4px double powderblue;
+border-top: 10px double powderblue;
+/* padding border의 안쪽*/
+padding: 10px;
+padding-left: 50px;
+/* margin 위 아래 왼쪽 오른쪽*/
+/* margin: 20px 40px 500px 100px; */
+margin: 0 auto 0 auto;
+
+}

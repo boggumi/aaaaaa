@@ -1,0 +1,24 @@
+p{
+  font-size: 10px
+}
+span {
+  font-size: 2.0em;
+}
+/*em은 그 태그의 부모요소의 폰트사이즈의 몇배해줌  */
+/*font-weight/ normol, bold, 100에서 800사이 숫자도가능 */
+p{
+  font-weight: bold;
+}
+/*line-height  줄간격*/
+/* text-align 글들을 좌우,중간 이렇게 정렬하는거*/
+h1{
+  text-align: right;
+}
+
+/* text-decoration */
+p{
+  text-decoration: underline;
+}
+h1{
+  text-decoration: line-line-through;
+}
